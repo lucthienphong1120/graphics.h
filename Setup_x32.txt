@@ -1,0 +1,6 @@
+copy graphics.h "C:\Program Files (x86)\Dev-Cpp\MinGW64\include" /Y
+copy winbgim.h "C:\Program Files (x86)\Dev-Cpp\MinGW64\include" /Y
+copy libbgi.a "C:\Program Files (x86)\Dev-Cpp\MinGW64\lib" /Y
+copy 6-ConsoleAppGraphics.template "C:\Program Files (x86)\Dev-Cpp\Templates" /Y
+copy ConsoleApp_cpp_graph.txt "C:\Program Files (x86)\Dev-Cpp\Templates" /Y
+
