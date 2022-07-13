@@ -37,7 +37,6 @@ void check(char* path, char* name){
 		gotoxy(20, 5);
 	    printf("Copy %s successful", name);
 		gotoxy(18, 6);
-		system("pause");
 	} else {
 		gotoxy(22, 5);
 	    printf("Copy %s failed!", name);
