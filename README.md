@@ -4,7 +4,7 @@
 git clone https://github.com/lucthienphong1120/graphics.h
 ```
 
-Run `setup.exe` with administrator permission. this will automatic setup the library
+Run `setup.exe` with administrator permission, this will automatic setup the library
 
 # How to use
 
